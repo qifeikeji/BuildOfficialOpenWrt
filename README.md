@@ -1,7 +1,16 @@
 # BuildOfficialOpenWrt
 
 ## Build OpenWrt for official source code.  
-[LEDE源码编译版本](https://github.com/ecrasy/BuildOpenWrt)  
+[使用LEDE源码编译的版本，跳转](https://github.com/ecrasy/BuildOpenWrt)  
+
+新增添加：
+1.wifi intel 8260c驱动
+2.openssl wifi密码
+3.privoxy
+4.x86使用efi的，，我的没法引导，，，
+5.
+
+
 
 SmartDNS,FakeDNS,ChinaDNS-NG,Turbo-ACC等组件建议勿选  
 经测试这些模块会拖累系统造成网络故障  
