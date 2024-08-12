@@ -8,7 +8,9 @@
 2.openssl wifi密码
 3.privoxy
 4.x86使用efi的，，我的没法引导，，，
-5.
+5.默认ip，192.168.2.1 （diy.sh里面）
+6.默认没有密码
+7.默认是没有 wifi密码组建的，需要opkg update后安装wpad-basic-openssl
 
 
 
